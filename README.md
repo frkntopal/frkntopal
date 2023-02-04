@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm interested in the Flutter development.<br>I'm interested in Data Science and Machine Learning with Python.<br>I know Numpy,Pandas,Seaborn,Matplotlib,Firebase,Provider,BLoC,Widget Tree...<br>Javascript-React
+I'm interested in the Flutter development and React development.<br>I'm interested in Data Science and Machine Learning with Python.<br>I know Numpy,Pandas,Seaborn,Matplotlib,Firebase,Provider,BLoC,Widget Tree...<br>Javascript-React
 
 
 ## 🌐 Socials:
